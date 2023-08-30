@@ -36,8 +36,8 @@ transport-replica-app/
 
 Follow these steps to set up the project and start contributing:
 
-1. Clone this repository: `git clone https://github.com/DevJSter/transport-replica-app.git`
-2. Navigate to the project directory: `cd transport-replica-app`
+1. Clone this repository: `git clone https://github.com/DevJSter/TransporReplicaApp.git`
+2. Navigate to the project directory: `cd TransportReplicaApp`
 3. Install dependencies: `npm install` or `yarn install`
 4. For Android development, open the project in Android Studio located in the `android` directory.
 5. For iOS development, open the project in Xcode located in the `ios` directory.
