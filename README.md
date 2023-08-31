@@ -1,4 +1,4 @@
-# Transport Replica App 
+# Transport App Replica
 
 Welcome to the Transport Replica App repository! This project aims to revolutionize the transport industry by harnessing the power of decentralization while offering seamless user experiences for both drivers and passengers. We've incorporated a wide range of technologies to make this vision a reality.
 
@@ -36,8 +36,8 @@ transport-replica-app/
 
 Follow these steps to set up the project and start contributing:
 
-1. Clone this repository: `git clone https://github.com/DevJSter/TransporReplicaApp.git`
-2. Navigate to the project directory: `cd TransportReplicaApp`
+1. Clone this repository: `git clone https://github.com/DevJSter/TransporAppReplica.git`
+2. Navigate to the project directory: `cd TransportAppReplica`
 3. Install dependencies: `npm install` or `yarn install`
 4. For Android development, open the project in Android Studio located in the `android` directory.
 5. For iOS development, open the project in Xcode located in the `ios` directory.
